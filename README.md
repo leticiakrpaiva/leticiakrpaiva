@@ -1,4 +1,4 @@
-## Olá! Eu sou a Leticia Paiva 🖐️
+## Olá! Eu sou a Letícia Paiva 🖐️
 
 - 🌱 Estudante de Engenharia de Software
 - 😄 Pronomes: ela/dela
