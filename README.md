@@ -14,15 +14,6 @@
 
 ---
 
-<div style="display: flex; gap: 10px; align-items: center; margin-top: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-</div>
-
----
-
 <table>
   <tr>
     <td>
@@ -32,6 +23,9 @@
 ![Leticiakrpaiva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leticiakrpaiva&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=tokyonight)
 
 </td>
+</tr>
+</table>
+
 <td>
 
 ### 📌 Most Used Languages
