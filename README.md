@@ -1,5 +1,7 @@
 ## 👩‍💻 Letícia Paiva
 
+<img src="assets/dados-leticia.png" alt="Ilustração sobre dados e tecnologia" width="300" align="right">
+
 - 📘 Student of Software Engineering at the University of Brasília (UNB)  
 - 🧠 Interested in Human-Computer Interaction and Data Technologies  
 - 🧪 Learning: Python, SQL, JavaScript, Artificial Intelligence  
@@ -23,10 +25,7 @@
 ![Leticiakrpaiva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leticiakrpaiva&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=tokyonight)
 
 </td>
-</tr>
-</table>
-
-<td>
+    <td>
 
 ### 📌 Most Used Languages
 
@@ -35,4 +34,5 @@
 </td>
 </tr>
 </table>
+
 
