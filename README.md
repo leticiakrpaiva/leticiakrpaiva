@@ -18,21 +18,4 @@
   <tr>
     <td>
 
-### 📊 Letícia's GitHub Stats
-
-![Leticiakrpaiva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leticiakrpaiva&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=tokyonight)
-
-</td>
-</tr>
-</table>
-
-<td>
-
-### 📌 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiakrpaiva&layout=compact&hide_border=true&theme=tokyonight)
-
-</td>
-</tr>
-</table>
 
